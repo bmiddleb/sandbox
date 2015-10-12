@@ -3,4 +3,3 @@ Sandbox file for practicing team git procedures.
 
 bjm was here
 bjm was here again
-bjm was here a third time.
